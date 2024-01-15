@@ -11,8 +11,6 @@ Two Rules for Creating Something New
 1. Do not reinvent the wheel. Predecessors have invented something better.
 1. You cannot create something new without the ambition to reinvent the wheel.
 
-<br/>
-
 新しいものを創造するための鉄則
 1. 車輪の再発明はするな。先達がより優れたものを発明している。
 2. 車輪の再発明をする気概がないと、新しいものは創造できない。
