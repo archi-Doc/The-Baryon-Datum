@@ -67,6 +67,10 @@ A lie is a truth that will soon become a lie, and the truth is a lie that remain
 
 <br/>
 
+People of the same language can usually exchange words in most cases, but they cannot communicate in most cases.
+
+<br/>
+
 The only option is to go to an another universe, if you desire more.
 
 <br/>
