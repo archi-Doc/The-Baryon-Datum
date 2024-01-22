@@ -67,6 +67,9 @@ A lie is a truth that will soon become a lie, and the truth is a lie that remain
 
 <br/>
 
+The only option is to go to an another universe, if you desire more.
+<br/>
+
 Life is like sliding down a snowy mountain.
 
 The view from the peak is endlessly beautiful, and the time it takes to slide down is surprisingly short.
