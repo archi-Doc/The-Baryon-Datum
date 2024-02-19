@@ -75,6 +75,14 @@ The only option is to go to an another universe, if you desire more.
 
 <br/>
 
+Silver Bullet Rule:
+
+Most things in the world are based on trade-offs.
+
+However, question it at least a hundred times, when someone other than yourself speaks up about it.
+
+<br/>
+
 Life is like sliding down a snowy mountain.
 
 The view from the peak is endlessly beautiful, and the time it takes to slide down is surprisingly short.
