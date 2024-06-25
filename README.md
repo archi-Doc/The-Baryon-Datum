@@ -83,6 +83,12 @@ However, question it at least a hundred times, when someone other than yourself 
 
 <br/>
 
+Economics is very special in the sense that it is the study of scaling out human capabilities.
+
+経済学は、人間の力のスケールアウトに関する学問であるという意味で、特別な存在である。
+
+<br/>
+
 Life is like sliding down a snowy mountain.
 
 The view from the peak is endlessly beautiful, and the time it takes to slide down is surprisingly short.
