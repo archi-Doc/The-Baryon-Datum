@@ -89,6 +89,16 @@ Economics is very special in the sense that it is the study of scaling out human
 
 <br/>
 
+Mathematics is an independent rationality.
+
+Physics must stand on the shoulders of mathematics, but mathematics can stand on its own.
+
+数学とは独立した理性である。
+
+物理学は数学の肩に乗らねばならぬが、数学は自分で立てる。
+
+<br/>
+
 Life is like sliding down a snowy mountain.
 
 The view from the peak is endlessly beautiful, and the time it takes to slide down is surprisingly short.
