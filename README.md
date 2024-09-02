@@ -41,6 +41,10 @@ Humans cannot create anything new, merely musical chairs driven by chance.
 
 <br/>
 
+I see more human ingenuity in the failures of airplanes rather than in the successes.
+
+<br/>
+
 Types are everything for programming languages, words are everything in design.
 
 プログラミング言語にとって型が全てであり、設計においては言葉が全てである。
