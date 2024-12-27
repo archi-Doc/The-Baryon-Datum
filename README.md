@@ -99,6 +99,10 @@ Physics must stand on the shoulders of mathematics, but mathematics can stand on
 
 <br/>
 
+Humans cannot understand mathematics; only get used to it.
+
+<br/>
+
 Life is like sliding down a snowy mountain.
 
 The view from the peak is endlessly beautiful, and the time it takes to slide down is surprisingly short.
