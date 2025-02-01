@@ -103,6 +103,16 @@ Humans cannot understand mathematics; only get used to it.
 
 <br/>
 
+まず初めに、TCPを作るな。
+作ったところで、劣った2番煎じにしかならない。
+より良いものを作るには、3回作れ。
+
+First of all, don't recreate TCP.
+It would only be a second-rate imitation.
+To create it better, do it three times.
+
+<br/>
+
 Life is like sliding down a snowy mountain.
 
 The view from the peak is endlessly beautiful, and the time it takes to slide down is surprisingly short.
