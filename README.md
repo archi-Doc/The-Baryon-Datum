@@ -117,6 +117,12 @@ To create it better, do it three times.
 
 <br/>
 
+It is not truly new, if it is not incomprehensible.
+
+理解不能なものでないと、新しいものではない。
+
+<br/>
+
 Life is like sliding down a snowy mountain.
 
 The view from the peak is endlessly beautiful, and the time it takes to slide down is surprisingly short.
