@@ -25,3 +25,5 @@ else
 }
 
 Write-Host "up-to-date"
+
+pause
