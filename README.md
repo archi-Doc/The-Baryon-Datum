@@ -6,7 +6,7 @@
 
 内容に基づいて被ったいかなる損害についても、一切責任を負いかねます。
 
-
+<br/>
 
 While it may not be understood by everyone, my passion lies in writing code;
 
@@ -14,7 +14,7 @@ even more incomprehensible is that I enjoy pondering how to improve that code,
 
 and what might be most baffling of all is my greatest joy in deleting that code.
 
-
+<br/>
 
 Two Rules for Creating Something New
 
@@ -25,7 +25,7 @@ Two Rules for Creating Something New
 1. 車輪の再発明はするな。先達がより優れたものを発明している。
 2. 車輪の再発明をする気概がないと、新しいものは創造できない。
 
-
+<br/>
 
 Sports is a dialogue with one's own body, while science is a dialogue with the world.
 
