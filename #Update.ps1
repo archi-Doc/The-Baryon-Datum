@@ -13,7 +13,7 @@ else
 
 $result = git commit -m "." 2>&1
 Write-Host $result
-if ($result -match 'Everything up-to-date')
+if ($result -match 'nothing to commit, working tree clean')
 {
     Write-Host 'git commit : up-to-date'
     exit 0
