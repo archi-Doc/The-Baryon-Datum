@@ -1,10 +1,20 @@
+こちらは、私が日頃思ったこと、考えたことを纏めたものです。
+
+なるべく論理的に考察するよう心がけていますが、単なる素人の安楽椅子おっさんが考えたことなので、知識不足や考え違いによる誤謬が多数含まれます。
+
+内容の正誤に対しては、ご自身の責任で判断するようお願いします。
+
+内容に基づいて被ったいかなる損害についても、一切責任を負いかねます。
+
+
+
 While it may not be understood by everyone, my passion lies in writing code;
 
 even more incomprehensible is that I enjoy pondering how to improve that code, 
 
 and what might be most baffling of all is my greatest joy in deleting that code.
 
-<br/>
+
 
 Two Rules for Creating Something New
 
@@ -15,7 +25,7 @@ Two Rules for Creating Something New
 1. 車輪の再発明はするな。先達がより優れたものを発明している。
 2. 車輪の再発明をする気概がないと、新しいものは創造できない。
 
-<br/>
+
 
 Sports is a dialogue with one's own body, while science is a dialogue with the world.
 
