@@ -12,6 +12,7 @@ if ($result -match 'nothing to commit, working tree clean')
 {
     Write-Host
     Write-Host 'No update'
+    Write-Host
     pause
     exit 0
 }
@@ -26,6 +27,7 @@ if ($result -match 'Everything up-to-date')
 {
     Write-Host
     Write-Host 'No update'
+    Write-Host
     pause
     exit 0
 }
@@ -36,5 +38,6 @@ else
 
 Write-Host
 Write-Host "up-to-date"
+Write-Host
 
 pause
