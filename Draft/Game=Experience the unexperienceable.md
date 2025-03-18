@@ -3,7 +3,8 @@ FS2024の惨状を見て思った
 リアルになればなるほど、ゲームがゲームから離れて行ってしまうと感じる。
 
 
-Game = Experience the unexperienceable
+
+## Game = Experience the unexperienceable
 
 Listen to the stories that are never told,
 
@@ -20,3 +21,8 @@ Experience the unexperienceable.
 存在さえしない世界に、手を触れる。
 
 経験しがたいことを経験する。
+
+
+
+キャッチコピーにどうぞ
+
