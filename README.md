@@ -6,6 +6,14 @@ and what might be most baffling of all is my greatest joy in deleting that code.
 
 <br/>
 
+We learn in order to find answers for the world, 
+but the purpose of learning is not to find answers.
+
+世の中に答えを出すために我々は学習するが、
+学習することの目的は答えを出すことではない。
+
+<br/>
+
 Two Rules for Creating Something New
 
 1. Do not reinvent the wheel. Predecessors have invented something better.
