@@ -115,6 +115,22 @@ Best practices barely exist; anti-patterns do not.
 
 <br/>
 
+Three Steps to Achieving Something Genius:
+
+1. Be inspired by what those who came before you accomplished.
+2. Start to feel dissatisfied with it and make improvements to make it better.
+3. Look around and realize that what you have made is merely a second-rate imitation of today’s cutting edge.
+4. Place one more stone on top of everything that has been achieved so far.
+
+天才的なことを成し遂げるための3つのステップ：
+
+1. 先達の成し遂げたことに感銘を受ける。
+2. それに不満を持ち始め、より良くなるよう改良を行う。
+3. 右を見ると、それが現代の最先端の二番煎じであることに気がつく。
+4. 今まで成し遂げたことに、石を一つ載せる。
+
+<br/>
+
 Humans may lie, but money doesn't.
 
  (Of course, this doesn't mean money is everything—rather, it represents the most appropriate form of consensus.)
